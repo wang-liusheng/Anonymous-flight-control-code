@@ -1,0 +1,5 @@
+*** Using Compiler 'V5.06 update 6 (build 750)', folder: 'D:\Keil_v5\ARM\ARMCC\Bin'
+Build target 'Ano_Pioneer'
+After Build - User command #1: fromelf.exe --bin -o ./AnoPioneerPro.bin ./build/Ano_Pioneer.axf
+".\build\ANO_Pioneer.axf" - 0 Error(s), 0 Warning(s).
+Build Time Elapsed:  00:00:01

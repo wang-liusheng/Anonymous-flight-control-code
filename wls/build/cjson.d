@@ -1,0 +1,9 @@
+.\build\cjson.o: D:\Keil_v5\MDK-Packs\cJSON\1.0.0\cJSON.c
+.\build\cjson.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\build\cjson.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\build\cjson.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+.\build\cjson.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\build\cjson.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\limits.h
+.\build\cjson.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\ctype.h
+.\build\cjson.o: D:\Keil_v5\MDK-Packs\cJSON\1.0.0\cJSON.h
+.\build\cjson.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
